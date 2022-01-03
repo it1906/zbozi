@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641136414 source:c:\users\hanis\desktop\codeblock projects\opakovani_zbozi\main.c
+	<stdio.h>
+	<stdlib.h>
+
